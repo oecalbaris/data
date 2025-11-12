@@ -1,0 +1,24 @@
+{
+  "title": "cleaner",
+  "version": 1.0,
+  "dataclean": {
+
+    "na_handle": true,
+    "na_handle_type": "backward_fill",
+
+    "drop_columns": true,
+    "drop_columns_list": ["Purchase Address"],
+
+    "drop_duplicate": true,
+    "drop_duplicate_type": "first_drop",
+
+    "convert_dtype": true,
+    "convert_dtype_type": "float",
+    "convert_dtype_list": ["Price Each"],
+
+    "outlier_cleaning": false,
+    "outlier_cleaning_features": [],
+
+    "outlier_cleaning_all": false
+  }
+}

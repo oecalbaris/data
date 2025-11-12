@@ -1,0 +1,36 @@
+root - 2025-11-11 11:56:41,557 - app.py - 27 - INFO - Application started: 1.0
+root - 2025-11-11 11:56:41,565 - weatherfetcher.py - 44 - INFO - Table 'weather' created or already exists.
+root - 2025-11-11 11:56:41,949 - weatherfetcher.py - 75 - WARNING - Failed request for Berlin in de: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+root - 2025-11-11 11:56:42,293 - weatherfetcher.py - 75 - WARNING - Failed request for Berlin in en: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+root - 2025-11-11 11:56:42,293 - weatherfetcher.py - 84 - WARNING - No weather data fetched for Berlin.
+root - 2025-11-11 11:56:42,637 - weatherfetcher.py - 75 - WARNING - Failed request for Aachen in de: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+root - 2025-11-11 11:56:42,961 - weatherfetcher.py - 75 - WARNING - Failed request for Aachen in en: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+root - 2025-11-11 11:56:42,961 - weatherfetcher.py - 84 - WARNING - No weather data fetched for Aachen.
+root - 2025-11-11 11:56:43,268 - weatherfetcher.py - 75 - WARNING - Failed request for Stuttgart in de: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+root - 2025-11-11 11:56:43,565 - weatherfetcher.py - 75 - WARNING - Failed request for Stuttgart in en: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+root - 2025-11-11 11:56:43,565 - weatherfetcher.py - 84 - WARNING - No weather data fetched for Stuttgart.
+root - 2025-11-11 11:56:43,566 - weatherfetcher.py - 89 - INFO - Database connection closed.
+root - 2025-11-11 11:56:43,566 - app.py - 29 - INFO - Application closed: 1.0
+root - 2025-11-11 11:57:52,475 - app.py - 27 - INFO - Application started: 1.0
+root - 2025-11-11 11:57:52,476 - weatherfetcher.py - 44 - INFO - Table 'weather' created or already exists.
+root - 2025-11-11 11:57:52,803 - weatherfetcher.py - 75 - WARNING - Failed request for Berlin in de: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+root - 2025-11-11 11:57:53,128 - weatherfetcher.py - 75 - WARNING - Failed request for Berlin in en: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+root - 2025-11-11 11:57:53,129 - weatherfetcher.py - 84 - WARNING - No weather data fetched for Berlin.
+root - 2025-11-11 11:57:53,451 - weatherfetcher.py - 75 - WARNING - Failed request for Aachen in de: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+root - 2025-11-11 11:57:53,770 - weatherfetcher.py - 75 - WARNING - Failed request for Aachen in en: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+root - 2025-11-11 11:57:53,770 - weatherfetcher.py - 84 - WARNING - No weather data fetched for Aachen.
+root - 2025-11-11 11:57:54,078 - weatherfetcher.py - 75 - WARNING - Failed request for Stuttgart in de: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+root - 2025-11-11 11:57:54,372 - weatherfetcher.py - 75 - WARNING - Failed request for Stuttgart in en: {'cod': 401, 'message': 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'}
+root - 2025-11-11 11:57:54,372 - weatherfetcher.py - 84 - WARNING - No weather data fetched for Stuttgart.
+root - 2025-11-11 11:57:54,373 - weatherfetcher.py - 89 - INFO - Database connection closed.
+root - 2025-11-11 11:57:54,373 - app.py - 29 - INFO - Application closed: 1.0
+root - 2025-11-11 12:02:40,821 - app.py - 27 - INFO - Application started: 1.0
+root - 2025-11-11 12:02:40,821 - weatherfetcher.py - 44 - INFO - Table 'weather' created or already exists.
+root - 2025-11-11 12:02:41,468 - weatherfetcher.py - 80 - INFO - Weather data fetched for Berlin.
+root - 2025-11-11 12:02:41,475 - weatherfetcher.py - 56 - INFO - Data inserted to SQL for Berlin
+root - 2025-11-11 12:02:42,085 - weatherfetcher.py - 80 - INFO - Weather data fetched for Aachen.
+root - 2025-11-11 12:02:42,094 - weatherfetcher.py - 56 - INFO - Data inserted to SQL for Aachen
+root - 2025-11-11 12:02:42,717 - weatherfetcher.py - 80 - INFO - Weather data fetched for Stuttgart.
+root - 2025-11-11 12:02:42,721 - weatherfetcher.py - 56 - INFO - Data inserted to SQL for Stuttgart
+root - 2025-11-11 12:02:42,721 - weatherfetcher.py - 89 - INFO - Database connection closed.
+root - 2025-11-11 12:02:42,721 - app.py - 29 - INFO - Application closed: 1.0

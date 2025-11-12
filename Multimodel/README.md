@@ -1,0 +1,5 @@
+1- Allmodels.py file containes different machine learning models(classification) and trains the infamous iris dataset. It finds the best hyperparameters and model for the most accurate results. By running this file you obtain .pkl files of individual models and also the most accurate one
+
+2- After allmodels.py is running next step is fastapi_model.py. Here you can run the fastapi_model file and the afterwards write  "uvicorn fastapi_model:app --reload" in the terminal to run it in the fastapi server. This provides the backend for the next step
+
+3- Finally run streamlit_model.py file and afterwards run "python -m streamlit run streamlit_model.py" now in the terminal you fin find a link to click which shows you the iris prediction model frontend. You can now enter the parameters you want and it gives you the class of the flower.

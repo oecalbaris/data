@@ -1,0 +1,38 @@
+root - 2025-10-07 22:16:29,774 - app.py - 32 - INFO - Application started: 1.0
+root - 2025-11-11 11:37:59,653 - app.py - 32 - INFO - Application started: 1.0
+root - 2025-11-11 11:39:18,029 - app.py - 32 - INFO - Application started: 1.0
+root - 2025-11-11 11:42:31,973 - app.py - 32 - INFO - Application started: 1.0
+root - 2025-11-11 11:42:37,919 - datacleaner.py - 44 - INFO - Data Profile for orignal created.!
+root - 2025-11-11 11:42:37,932 - datacleaner.py - 61 - ERROR - Invalid feature list.
+root - 2025-11-11 11:42:38,015 - datacleaner.py - 81 - INFO - NA values are backward filled
+root - 2025-11-11 11:42:38,122 - datacleaner.py - 107 - INFO - Kept first of duplicates. Others removed.
+root - 2025-11-11 11:42:38,122 - datacleaner.py - 136 - ERROR - Data type conversion failed: invalid literal for int() with base 10: '11.95'
+root - 2025-11-11 11:42:38,122 - datacleaner.py - 136 - ERROR - Data type conversion failed: invalid literal for int() with base 10: 'Quantity Ordered'
+root - 2025-11-11 13:49:16,555 - app.py - 32 - INFO - Application started: 1.0
+root - 2025-11-11 13:49:23,518 - datacleaner.py - 44 - INFO - Data Profile for orignal created.!
+root - 2025-11-11 13:49:23,544 - datacleaner.py - 66 - INFO - Columns 'Purchase Address' is dropped successfully.
+root - 2025-11-11 13:49:23,599 - datacleaner.py - 81 - INFO - NA values are backward filled
+root - 2025-11-11 13:49:23,667 - datacleaner.py - 107 - INFO - Kept first of duplicates. Others removed.
+root - 2025-11-11 13:49:23,667 - datacleaner.py - 136 - ERROR - Data type conversion failed: invalid literal for int() with base 10: '11.95'
+root - 2025-11-11 13:49:23,667 - datacleaner.py - 136 - ERROR - Data type conversion failed: invalid literal for int() with base 10: 'Quantity Ordered'
+root - 2025-11-11 13:53:50,142 - app.py - 32 - INFO - Application started: 1.0
+root - 2025-11-11 13:53:56,855 - datacleaner.py - 44 - INFO - Data Profile for orignal created.!
+root - 2025-11-11 13:53:56,882 - datacleaner.py - 66 - INFO - Columns 'Purchase Address' is dropped successfully.
+root - 2025-11-11 13:53:56,954 - datacleaner.py - 81 - INFO - NA values are backward filled
+root - 2025-11-11 13:53:57,032 - datacleaner.py - 107 - INFO - Kept first of duplicates. Others removed.
+root - 2025-11-11 13:53:57,033 - datacleaner.py - 136 - ERROR - Data type conversion failed: could not convert string to float: 'Price Each'
+root - 2025-11-11 13:57:59,443 - app.py - 32 - INFO - Application started: 1.0
+root - 2025-11-11 13:58:07,182 - datacleaner.py - 44 - INFO - Data Profile for orignal created.!
+root - 2025-11-11 13:58:07,208 - datacleaner.py - 66 - INFO - Columns 'Purchase Address' is dropped successfully.
+root - 2025-11-11 13:58:07,262 - datacleaner.py - 81 - INFO - NA values are backward filled
+root - 2025-11-11 13:58:07,341 - datacleaner.py - 107 - INFO - Kept first of duplicates. Others removed.
+root - 2025-11-11 13:58:07,419 - datacleaner.py - 183 - INFO - Column 'Price Each' converted safely to numeric.
+root - 2025-11-11 14:01:09,551 - app.py - 32 - INFO - Application started: 1.0
+root - 2025-11-11 14:01:18,922 - datacleaner.py - 44 - INFO - Data Profile for orignal created.!
+root - 2025-11-11 14:01:18,948 - datacleaner.py - 66 - INFO - Columns 'Purchase Address' is dropped successfully.
+root - 2025-11-11 14:01:19,033 - datacleaner.py - 81 - INFO - NA values are backward filled
+root - 2025-11-11 14:01:19,117 - datacleaner.py - 107 - INFO - Kept first of duplicates. Others removed.
+root - 2025-11-11 14:01:19,209 - datacleaner.py - 183 - INFO - Column 'Price Each' converted safely to numeric.
+root - 2025-11-11 14:01:24,360 - datacleaner.py - 53 - INFO - Data Profile for cleaned created.!
+root - 2025-11-11 14:01:24,692 - datacleaner.py - 194 - INFO - Data is saved successfully.
+root - 2025-11-11 14:01:24,704 - app.py - 34 - INFO - Application closed: 1.0
